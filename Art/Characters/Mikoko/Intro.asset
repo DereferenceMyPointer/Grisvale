@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 104237c9793fcf547983095805c92a6d, type: 3}
+  m_Name: Intro
+  m_EditorClassIdentifier: 
+  playerText: 
+  npcText:
+  - Who are you?
+  next:
+  - {fileID: 11400000, guid: 997ec9fc0a36f584da1792019ea42e54, type: 2}
+  - {fileID: 11400000, guid: 0f0ffa15b1e693b41b57715210ed9661, type: 2}
